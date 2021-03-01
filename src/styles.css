@@ -1,0 +1,46 @@
+body {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEE1-yCu99znwip0Fkp97ec8POJo3T-uTp8Q&usqp=CAU");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.heading {
+  color: black;
+}
+
+.button {
+  color: green;
+  background-color: black;
+  height: 35px;
+  width: 75px;
+}
+
+.heading2 {
+  color: blueviolet;
+}
+
+.heading3 {
+  color: blue;
+}
+
+.heading4 {
+  color: tomato;
+}
+.para {
+  color: teal;
+}
+
+.input {
+  background-color: tomato;
+}
+
+ul {
+  color: black;
+}
+
+img {
+  height: 100px;
+  widows: 100px;
+}
